@@ -23,3 +23,5 @@ I'm a US Army Veteran and I'm new to coding.
 [Class Three Notes](classthreenotes.md)
 
 [Class Four Notes](classfournotes.md)
+
+[Class Five Notes](classfivenotes.md)
